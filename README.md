@@ -70,3 +70,5 @@ You can add the list of HR email addresses in the hr_emails list:
 Once everything is set up, run the script using the following command:
         
         python script.py
+
+   vaibhav kolase
